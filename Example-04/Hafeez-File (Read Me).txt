@@ -1,0 +1,17 @@
+https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application
+
+
+----------------------------------------------------------
+Include MVC Page Seprate (Header, Footer, Body)
+Pass data parameter and show to HTML page using ejs.
+----------------------------------------------------------
+
+
+
+node app
+
+http://localhost:8080/
+
+
+
+

@@ -1,0 +1,5 @@
+Example Array Using Require & User Define Function
+
+
+node app
+

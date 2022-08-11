@@ -1,0 +1,14 @@
+npm install
+npm install express
+npm install ejs
+npm install mongodb
+
+
+node app
+
+http://localhost:8080
+
+=========================================
+
+// npm install mysql
+
